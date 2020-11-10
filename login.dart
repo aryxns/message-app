@@ -4,7 +4,7 @@ import 'package:substack/MyHomePage.dart';
 class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text("BimaPe")), body: Body());
+    return Scaffold(appBar: AppBar(title: Text("MyApp")), body: Body());
   }
 }
 
