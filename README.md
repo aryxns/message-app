@@ -1,2 +1,2 @@
 # message-app
-Flutter
+Native app with social boards. 
